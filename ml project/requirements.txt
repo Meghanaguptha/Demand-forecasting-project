@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+plotly
+joblib
+streamlit
+anthropic
+python-dotenv
+nbformat
+ipykernel
+python-pptx
